@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email_forms", "Email_forms\Email_forms.csproj", "{568F7E01-A310-4F59-92F2-6AC5C8EE949E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy_spam_check", "Nancy_spam_check\Nancy_spam_check.csproj", "{FCC851EB-D946-42A7-B3BD-4EA8023E4793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{568F7E01-A310-4F59-92F2-6AC5C8EE949E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568F7E01-A310-4F59-92F2-6AC5C8EE949E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568F7E01-A310-4F59-92F2-6AC5C8EE949E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568F7E01-A310-4F59-92F2-6AC5C8EE949E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC851EB-D946-42A7-B3BD-4EA8023E4793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC851EB-D946-42A7-B3BD-4EA8023E4793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC851EB-D946-42A7-B3BD-4EA8023E4793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC851EB-D946-42A7-B3BD-4EA8023E4793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Nancy_spam_check\Nancy_spam_check.csproj
+	EndGlobalSection
+EndGlobal
