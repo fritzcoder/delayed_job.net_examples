@@ -1,20 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Email_forms/Default.aspx.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nancy_spam_check/packages.config">
     <Files>
-      <File FileName="Email_forms/Default.aspx.cs" Line="26" Column="15" />
+      <File FileName="Email_forms/Default.aspx.cs" Line="80" Column="4" />
       <File FileName="Nancy_spam_check/web.config" Line="1" Column="1" />
       <File FileName="Nancy_spam_check/SpamModule.cs" Line="16" Column="15" />
       <File FileName="Email_forms/Default.aspx" Line="1" Column="1" />
+      <File FileName="Nancy_spam_check/packages.config" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State expanded="True" selected="True">
+        <State expanded="True">
           <Node name="Email_forms" expanded="True">
             <Node name="Default.aspx" expanded="True" />
-          </Node>
-          <Node name="Nancy_spam_check" expanded="True">
-            <Node name="References" expanded="True" />
           </Node>
         </State>
       </Pad>

@@ -73,7 +73,8 @@ namespace JobTest
 			{
 
 				ServicePointManager.ServerCertificateValidationCallback = 
-					delegate(object s, X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors) 
+					delegate(object s, X509Certificate certificate, X509Chain chain, 
+					         SslPolicyErrors sslPolicyErrors) 
 				{ return true; };
 				smtp.Send(message);
 			}

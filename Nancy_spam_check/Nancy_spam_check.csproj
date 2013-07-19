@@ -41,7 +41,10 @@
       <HintPath>..\packages\Nancy.Hosting.Aspnet.0.18.0\lib\net40\Nancy.Hosting.Aspnet.dll</HintPath>
     </Reference>
     <Reference Include="DelayedJob">
-      <HintPath>..\..\delayed_job\delayed_job\bin\Debug\DelayedJob.dll</HintPath>
+      <HintPath>..\lib\DelayedJob.dll</HintPath>
+    </Reference>
+    <Reference Include="RepositoryMonoSQLite">
+      <HintPath>..\lib\RepositoryMonoSQLite.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

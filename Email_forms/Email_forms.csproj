@@ -38,7 +38,10 @@
       <HintPath>..\..\..\..\..\..\Library\Frameworks\Mono.framework\Libraries\mono\gac\System.Net\4.0.0.0__b77a5c561934e089\System.Net.dll</HintPath>
     </Reference>
     <Reference Include="DelayedJob">
-      <HintPath>..\..\delayed_job\delayed_job\bin\Debug\DelayedJob.dll</HintPath>
+      <HintPath>..\lib\DelayedJob.dll</HintPath>
+    </Reference>
+    <Reference Include="RepositoryMonoSQLite">
+      <HintPath>..\lib\RepositoryMonoSQLite.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
